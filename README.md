@@ -10,16 +10,9 @@
 ✨ My goal is to build technologies that *uplift lives and inspire a better tomorrow*.
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prisha-jr&show_icons=true&theme=gruvbox&hide_border=true" alt="prisha-jr's GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prisha-jr&theme=gruvbox&hide_border=true" alt="prisha-jr's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prisha-jr&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🌱 What I'm Up To
