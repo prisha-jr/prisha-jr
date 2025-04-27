@@ -6,8 +6,8 @@
 
 ## 🌸 About Me
 ✨ I'm an engineering student with a heart full of dreams and a mind wired for innovation; really passionate about technology, innovation, and creating impactful solutions.  
-✨Currently diving deep into **development**, **embedded systems**, and **AI**, building skills one project at a time with a vision to change the world. 🌎
-✨ My goal is to build technologies that *uplift lives and inspire a better tomorrow*.
+✨Currently diving deep into **development**, **embedded systems**, and **AI**, building skills one project at a time with a vision to change the world.🌎
+✨ My goal is to build technologies that **uplift lives and inspire a better tomorrow**.
 
 ## 🔥 GitHub Streak
 
