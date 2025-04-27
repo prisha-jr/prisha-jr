@@ -1,8 +1,8 @@
 # Hi there, I'm Prisha 👋
 🚀 Engineering Student | Tech Enthusiast | Future Innovator | Tech for Impact
 
-[![LinkedIn Badge](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url/)
-[![Gmail Badge](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn Badge](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prisha-chakraborty-2b5374249/)
+[![Gmail Badge](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:chakrabortyprisha33@gmail.com)
 
 ## 🌸 About Me
 ✨ I'm an engineering student with a heart full of dreams and a mind wired for innovation; really passionate about technology, innovation, and creating impactful solutions.  
@@ -21,7 +21,7 @@
 - 👯 **Open to collaborating on:** Tech for good, impact-driven innovation
 - 🤔 **Seeking guidance on:** Embedded optimization and clean scalable dev
 - 💬 **Ask me about:** Building, learning, growing 🚀
-- 📫 **Reach me:** [chakrabortyprisha33@gmail.com] | [LinkedIn](https://www.linkedin.com/in/prisha-chakraborty/)
+- 📫 **Reach me:** [chakrabortyprisha33@gmail.com] | [LinkedIn](https://www.linkedin.com/in/prisha-chakraborty-2b5374249/)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=prisha-jr&theme=gruvbox&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
